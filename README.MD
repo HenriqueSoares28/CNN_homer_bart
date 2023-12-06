@@ -31,6 +31,6 @@ Os resultados do treinamento mostram um padrão variável de precisão e perda a
 
 As alterações implementadas na arquitetura da Rede Neural Convolucional (CNN), que incluíram o aumento do número de filtros nas camadas convolucionais, a introdução de camadas de dropout para prevenir o overfitting, e a expansão do número de neurônios na camada densa, foram estratégias visando amplificar a capacidade de aprendizado da rede. Os resultados obtidos indicam que a rede aprimorada demonstra uma habilidade efetiva de capturar e aprender padrões complexos presentes nos dados.
 
-![Teste01](image.png) 
-![Teste02](image-1.png)
-![Teste03](image-2.png)
+![Teste01](relatorio/image.png) 
+![Teste02](relatorio/image-1.png)
+![Teste03](relatorio/image-2.png)
